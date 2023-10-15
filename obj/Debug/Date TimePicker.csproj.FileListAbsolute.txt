@@ -1,0 +1,10 @@
+C:\Users\rafob\source\repos\Date TimePicker\Date TimePicker\bin\Debug\Date TimePicker.exe.config
+C:\Users\rafob\source\repos\Date TimePicker\Date TimePicker\bin\Debug\Date TimePicker.exe
+C:\Users\rafob\source\repos\Date TimePicker\Date TimePicker\bin\Debug\Date TimePicker.pdb
+C:\Users\rafob\source\repos\Date TimePicker\Date TimePicker\obj\Debug\Date TimePicker.csproj.AssemblyReference.cache
+C:\Users\rafob\source\repos\Date TimePicker\Date TimePicker\obj\Debug\Date_TimePicker.Form1.resources
+C:\Users\rafob\source\repos\Date TimePicker\Date TimePicker\obj\Debug\Date_TimePicker.Properties.Resources.resources
+C:\Users\rafob\source\repos\Date TimePicker\Date TimePicker\obj\Debug\Date TimePicker.csproj.GenerateResource.cache
+C:\Users\rafob\source\repos\Date TimePicker\Date TimePicker\obj\Debug\Date TimePicker.csproj.CoreCompileInputs.cache
+C:\Users\rafob\source\repos\Date TimePicker\Date TimePicker\obj\Debug\Date TimePicker.exe
+C:\Users\rafob\source\repos\Date TimePicker\Date TimePicker\obj\Debug\Date TimePicker.pdb
